@@ -1,0 +1,18 @@
+/target/
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Local Hibernate configuration - contains database password
+src/main/resources/hibernate.cfg.xml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
